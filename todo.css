@@ -10,10 +10,8 @@ h1{
     font-size: 3em;
 }
 ul{
-    width:50%;
     text-align: center;
-    margin-left: 500px;
-    margin-right: 500px;
+    list-style-position: inside;
 }
 #add{
     background-color: lightslategray;
