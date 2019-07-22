@@ -1,0 +1,31 @@
+bodY{
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em
+}
+
+h1{
+    font-size: 3em;
+}
+ul{
+    width:50%;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+#add{
+    background-color: lightslategray;
+
+}
+#clear{
+    background-color: lightcoral;
+}
+.remove{
+    background-color: lightslategray;
+}
+.remove:hover{
+    background-color: lightcoral;
+
+}
